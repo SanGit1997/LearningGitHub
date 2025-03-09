@@ -1,3 +1,4 @@
 # LearningGitHub
 This is my Github repo learning
-Author - SAnjay G
+<br>
+Author - Sanjay G
